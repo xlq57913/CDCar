@@ -1,0 +1,14 @@
+# CDCar
+CDCar/.idae
+CDCar/.gradle
+CDCar/gradle
+CDCar/app/build
+
+#raspberrypi
+CDCar-pi/*.pyc
+CDCar-pi//__pycache__
+CDCar-pi//proto/python/__pycache__
+CDCar-pi/core
+CDCar-pi/core.*
+CDCar-pi//.idea
+

@@ -1,6 +1,0 @@
-*.pyc
-/__pycache__
-/proto/python/__pycache__
-core
-core.*
-/.idea
